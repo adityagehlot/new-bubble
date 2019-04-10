@@ -1,2 +1,2 @@
 # new-bubble
-With this a new bubble was created in the multiverse.
+Hello collections of stardust! With this a new bubble was created in the multiverse.
